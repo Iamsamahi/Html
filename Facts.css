@@ -1,0 +1,22 @@
+*{
+    padding: 0px ;
+    margin: 0px;
+}
+.new-head{
+    color: rgb(182, 85, 46);    
+}
+
+.Reason ol{
+    display: flex;
+    flex-direction: column ;;
+    padding-left: 25px;
+    list-style-type:lower-roman;
+}
+.Reason em{
+    color: rgb(189, 144, 60);
+}
+.Reason p{
+    color: azure;
+    margin-top: 10px;
+    padding-left:50px;
+}
